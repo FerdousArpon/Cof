@@ -1,0 +1,140 @@
+@media (min-width: 900px) and (max-width:1200px) {
+    .Body{
+        margin-bottom: 1200px;
+    }
+    .coffee{
+        width: 100%;
+        height: 280px;
+    }
+    .front{
+        top: 19%;
+        left: 6%;
+        width: 88%;
+        padding-bottom: 50px;
+        border-radius: 20px;
+    }
+    .vector{
+        left: 49%;
+        height: 140px;
+        top: 10px;
+    }
+    .under{
+        row-gap: 4px;
+        margin-left: 3%;
+        top: 6%;
+    }
+    .our{
+        font-size: 29px;
+    }
+    .intro{
+        width: 55%;
+        font-size: 90%;
+    }
+    .but{
+        column-gap: 0.5rem;
+        margin-left: 37%;
+        margin-top: 40px;
+    }
+    .pro{
+        padding: 1.5% 2% 1.5% 2%;
+    }
+    .pro-1{
+        padding: 1.5% 2% 1.5% 2%;
+    }
+    .grid{
+        grid-template-columns: repeat(2, 49%);
+        column-gap: 0px;
+        margin-left: 11%;
+        margin-top: 30px;
+        row-gap: 45px;
+    }
+}
+@media (min-width: 0px) and (max-width:900px) {
+    .Body{
+        margin-bottom: 2180px;
+    }
+    .coffee{
+        width: 100%;
+        height: 280px;
+    }
+    .front{
+        top: 24%;
+        left: 8.6%;
+        width: 80%;
+        padding-bottom: 50px;
+        border-radius: 20px;
+    }
+    .vector{
+        left: 44%;
+        height: 130px;
+        top: 19px;
+    }
+    .under{
+        row-gap: 4px;
+        margin-left: 3%;
+        top: 2%;
+    }
+    .our{
+        font-size: 24px;
+    }
+    .intro{
+        width: 59%;
+        font-size: 85%;
+    }
+    .but{
+        column-gap: 0.5rem;
+        margin-left: 27%;
+        margin-top: 40px;
+    }
+    .pro{
+        padding: 1.8% 2% 1.8% 2%;
+    }
+    .pro-1{
+        padding: 1.8% 2% 1.8% 2%;
+    }
+    .grid{
+        grid-template-columns: repeat(1, 0px);
+        column-gap: 0px;
+        margin-left: 21%;
+        margin-top: 30px;
+        row-gap: 45px;
+    }
+    .uwu{
+        width: 300px;
+    }
+    .star{
+        width: 200px;
+    }
+    .cap{
+        font-size: 17px;
+
+    }
+    .dollar{
+        margin-top: 13px;
+        column-gap: 140px;
+    }
+    .dollar-1{
+        margin-top: 13px;
+        column-gap: 160px;
+    }
+    .dollar-2{
+        margin-top: 13px;
+        column-gap: 180px;
+    }
+    .dollar-3{
+        column-gap: 160px;
+        margin-top: 13px;
+    }
+    .dollar-4{
+        column-gap: 143px;
+        margin-top: 13px;
+    }
+    .dollar-5{
+        margin-top: 15px;
+        column-gap: 180px;
+    }
+    .pesa{
+        font-size: 15px;
+        padding: 11px 15px 0px 15px;
+    }
+}
